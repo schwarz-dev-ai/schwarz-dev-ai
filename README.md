@@ -1,16 +1,40 @@
-## Hi there 👋
+# Andrej Schwarz — C++/Python Softwareentwickler | Applied AI (CV/RL/Time Series)
 
-<!--
-**schwarz-dev-ai/schwarz-dev-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich entwickle robuste Software mit **C++ und Python** – von **datengetriebenen Prototypen** bis zu **sauberer, testbarer Produkt-Architektur** (Linux, CI, Automation).  
+Hier findest du ausgewählte **Case Studies** und **Open-Source-Repos** – inklusive Screenshots, Architektur und Ergebnissen.
 
-Here are some ideas to get you started:
+## What I do
+- C++/Python Engineering (Performance, Clean Architecture, Tests)
+- Applied AI: Computer Vision, Reinforcement Learning, Zeitreihenanalyse
+- Tooling & CI/CD: Git, Jenkins/GitHub Actions, Linux
+- Prototyping → Produkt (reproduzierbare Experimente + nachvollziehbare Doku)
+- Web/Backend (PHP/JS) & Desktop-Tools (wenn sinnvoll für das Produkt)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack (Auszug)
+**Languages:** C++, Python, C#, Java  
+**AI/ML:** PyTorch, TensorFlow, OpenCV, RL (DQN), Zeitreihenmodellierung  
+**Tooling:** Git, Linux, Jenkins, CMake, (GitHub Actions), Visual Studio, PyCharm, Matlab, MetaTrader  
+**Web:** PHP, JavaScript, HTML, CSS, MySQL
+
+## Highlights (Pinned Repos)
+- `rl-pokerbot` — DQN-Agent + Training/Evaluation + Plots *(Open Source / Case Study)*
+- `cpp-embedded-playground` — Modern C++ mit CI & Tests *(Open Source)*
+- `case-study-hamburgcars-webshop-admin` — DB-Redesign + Admin-Backend *(Case Study)*
+- `case-study-fortunawatch-car-listings` — Desktop/Distributed/Parsing *(Case Study)*
+- `trading-bot-lab` — Time-Series + Backtesting (Research, kein Advice) *(Open Source)*
+- *(optional 6.)* `cv-toolbox` — kleine CV-Demos & Benchmarks *(Open Source)*
+
+## Open Source vs. Case Studies
+Nicht alles darf als Quellcode öffentlich sein. In **Case-Study-Repos** dokumentiere ich deshalb:
+**Problem → Lösung → Architektur → Ergebnisse → Lessons learned** (mit anonymisierten Snippets & Screenshots).
+
+## Kontakt
+- Portfolio: https://schwarzdev.de/portfolio/
+- LinkedIn: https://www.linkedin.com/in/andrej-schwarz/
+
+<details>
+  <summary>Optional: GitHub Stats (dezent)</summary>
+
+  <!-- Optional: ein Stats-Widget einsetzen, wenn du möchtest -->
+  <!-- Beispiel: https://github.com/anuraghazra/github-readme-stats -->
+</details>
