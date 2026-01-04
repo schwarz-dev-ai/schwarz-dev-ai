@@ -16,13 +16,13 @@ Hier findest du ausgewählte **Case Studies** und **Open-Source-Repos** – inkl
 **Tooling:** Git, Linux, Jenkins, CMake, (GitHub Actions), Visual Studio, PyCharm, Matlab, MetaTrader  
 **Web:** PHP, JavaScript, HTML, CSS, MySQL
 
-## Highlights (Pinned Repos)
+## Highlights (TODO: Pinned Repos)
 - `rl-pokerbot` — DQN-Agent + Training/Evaluation + Plots *(Open Source / Case Study)*
 - `cpp-embedded-playground` — Modern C++ mit CI & Tests *(Open Source)*
 - `case-study-hamburgcars-webshop-admin` — DB-Redesign + Admin-Backend *(Case Study)*
 - `case-study-fortunawatch-car-listings` — Desktop/Distributed/Parsing *(Case Study)*
 - `trading-bot-lab` — Time-Series + Backtesting (Research, kein Advice) *(Open Source)*
-- *(optional 6.)* `cv-toolbox` — kleine CV-Demos & Benchmarks *(Open Source)*
+- `cv-toolbox` — kleine CV-Demos & Benchmarks *(Open Source)*
 
 ## Open Source vs. Case Studies
 Nicht alles darf als Quellcode öffentlich sein. In **Case-Study-Repos** dokumentiere ich deshalb:
@@ -32,9 +32,4 @@ Nicht alles darf als Quellcode öffentlich sein. In **Case-Study-Repos** dokumen
 - Portfolio: https://schwarzdev.de/portfolio/
 - LinkedIn: https://www.linkedin.com/in/andrej-schwarz/
 
-<details>
-  <summary>Optional: GitHub Stats (dezent)</summary>
 
-  <!-- Optional: ein Stats-Widget einsetzen, wenn du möchtest -->
-  <!-- Beispiel: https://github.com/anuraghazra/github-readme-stats -->
-</details>
